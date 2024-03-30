@@ -1,0 +1,19 @@
+.img{
+    width: 300px;
+}
+
+.btn{
+    background-color: brown;
+    color: white;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+
+.heading{
+    font-size: 30px;
+}
+.news_sets{
+    margin-top: 50px;
+    margin: 0px, 30px; 
+}
+
